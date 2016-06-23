@@ -7,7 +7,7 @@
             "email": "josephnieltuazon@yahoo.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev-master",
     "license": "MIT",
     "type": "project",
     "require": {
