@@ -1,6 +1,6 @@
 {
     "name": "josephniel/project-base",
-    "description": "Base project setup for PHP web applications with intensive CSS/Javascript use.",
+    "description": "Base project setup for PHP applications with intensive CSS/Javascript use.",
     "authors": [
         {
             "name": "Joseph Niel Tuazon",
