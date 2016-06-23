@@ -10,8 +10,11 @@
     "minimum-stability": "dev",
     "license": "MIT",
     "type": "project",
+    "version": "1.0.0",
     "require": {},
-    "require-dev": {},
+    "require-dev": {
+        
+    },
     "autoload": {
         "psr-4": {}
     }
