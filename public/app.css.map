@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,MAClB,MAAO,IACP,WACE,MAAO","file":"app.css","sourceRoot":"/source/","sourcesContent":["body {\n  background-color: green;\n  color: red; }\n  body:hover {\n    color: green; }\n"]}
